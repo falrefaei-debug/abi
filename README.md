@@ -1,4 +1,4 @@
-api near <div align="center">
+ABI Near <div align="center">
 
   <h1><code>NEAR ABI</code></h1>
 
